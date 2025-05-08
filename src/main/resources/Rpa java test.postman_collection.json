@@ -1,0 +1,42 @@
+{
+	"info": {
+		"_postman_id": "7c30e1a9-6a3a-4acb-a58c-c79cef16fa5c",
+		"name": "Rpa java test",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "36914753"
+	},
+	"item": [
+		{
+			"name": "clientes activos",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "clientes -- pedidos",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "productos >> mas vendido",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "productos >> mas vendido Copy",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
