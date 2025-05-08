@@ -91,7 +91,7 @@ Esta sección implementa consultas SQL para un esquema de base de datos con las 
 
 2. **Clonar el repositorio**:
    ```
-   git clone 
+   git clone https://github.com/rodrigogz64/rpa-java-test.git
    cd evaluacion-java
    ```
 
